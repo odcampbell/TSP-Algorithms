@@ -29,11 +29,12 @@ Sends out to TSP_Output
 **Brute Force:** 
 
 py TSP_BruteForce.py
+
 -Hard coded example_distance or manually change to random generated
 
 **Heuristic (2 Opt):** 
 
-py TSP_H.py Graphs\470_Graphs\g100.graph
+    py TSP_H.py Graphs\470_Graphs\g100.graph
 
 py TSP_H.py Graphs\470_Graphs\g250.graph
 

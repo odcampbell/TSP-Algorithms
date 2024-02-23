@@ -1,0 +1,25 @@
+Alt + Z for format
+
+---- TSP Heuristic Output ---- 
+Number of Cities:  100
+Initial Distance::  56609
+Optimized Distance::  1161
+Execution Time:  0.0016450881958007812 seconds
+
+---- TSP Heuristic Output ---- 
+Number of Cities:  250
+Initial Distance::  230131
+Optimized Distance::  2333
+Execution Time:  0.0825052261352539 seconds
+
+---- TSP Heuristic Output ---- 
+Number of Cities:  500
+Initial Distance::  325324
+Optimized Distance::  1123
+Execution Time:  0.4132349491119385 seconds
+
+---- TSP Heuristic Output ---- 
+Number of Cities:  1000
+Initial Distance::  893502
+Optimized Distance::  2199
+Execution Time:  1.7713327407836914 seconds

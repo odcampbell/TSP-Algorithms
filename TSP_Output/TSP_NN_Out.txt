@@ -1,0 +1,21 @@
+# Alt + Z to format
+
+---- TSP NN Output ---- 
+Number of Cities:  100
+Optimized Distance:  2573
+Elapsed Time:  0.0019974708557128906seconds
+
+---- TSP NN Output ---- 
+Number of Cities:  250
+Optimized Distance:  4609
+Elapsed Time:  0.01116037368774414seconds
+
+---- TSP NN Output ---- 
+Number of Cities:  500
+Optimized Distance:  3361
+Elapsed Time:  0.05709695816040039seconds
+
+---- TSP NN Output ---- 
+Number of Cities:  1000
+Optimized Distance:  5589
+Elapsed Time:  0.1698904037475586seconds

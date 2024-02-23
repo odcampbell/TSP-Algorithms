@@ -1,0 +1,21 @@
+# Alt + Z to format
+
+---- TSP HPrime Output ---- 
+Number of Cities:  100
+Optimized Distance:  1212
+Execution Time:  0.014936447143554688 seconds
+
+---- TSP HPrime Output ---- 
+Number of Cities:  250
+Optimized Distance:  2232
+Execution Time:  0.08088970184326172 seconds
+
+---- TSP HPrime Output ---- 
+Number of Cities:  500
+Optimized Distance:  1031
+Execution Time:  0.31629276275634766 seconds
+
+---- TSP HPrime Output ---- 
+Number of Cities:  1000
+Optimized Distance:  2002
+Execution Time:  1.423557996749878 seconds

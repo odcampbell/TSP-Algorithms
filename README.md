@@ -29,8 +29,11 @@ py TSP_BruteForce.py
 
 **Heuristic (2 Opt):** 
 py TSP_H.py Graphs\470_Graphs\g100.graph
+
 py TSP_H.py Graphs\470_Graphs\g250.graph
+
 py TSP_H.py Graphs\470_Graphs\g500.graph
+
 py TSP_H.py Graphs\470_Graphs\g1000.graph
 
 py TSP_H.py Graphs\MyGraphs\g500M.txt 
@@ -38,16 +41,22 @@ py TSP_H.py Graphs\MyGraphs\g500M.txt
 
 **Heuristic Prime (MST + 2Opt):** 
 py TSP_HPrime.py Graphs\470_Graphs\g100.graph
+
 py TSP_HPrime.py Graphs\470_Graphs\g250.graph
+
 py TSP_HPrime.py Graphs\470_Graphs\g500.graph
+
 py TSP_HPrime.py Graphs\470_Graphs\g1000.graph
 
 py TSP_HPrime.py Graphs\MyGraphs\g500M.txt 
 
 **Nearest Neighbor:** 
 py TSP_NN.py Graphs\470_Graphs\g100.graph  
+
 py TSP_NN.py Graphs\470_Graphs\g250.graph  
+
 py TSP_NN.py Graphs\470_Graphs\g500.graph  
+
 py TSP_NN.py Graphs\470_Graphs\g1000.graph  
 
 py TSP_NN.py Graphs\MyGraphs\g500M.txt 
